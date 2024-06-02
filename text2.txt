@@ -1,0 +1,3 @@
+$ git merge C4
+Auto-merging text.txt
+

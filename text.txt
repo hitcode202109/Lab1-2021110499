@@ -1,0 +1,6 @@
+$ git merge C4
+Auto-merging text.txt
+CONFLICT (add/add): Merge conflict in text.txt
+Auto-merging text2.txt
+CONFLICT (add/add): Merge conflict in text2.txt
+Automatic merge failed; fix conflicts and then commit the result.
